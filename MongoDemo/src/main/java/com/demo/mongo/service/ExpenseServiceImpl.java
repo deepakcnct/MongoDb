@@ -1,4 +1,4 @@
-package com.demo.mongo.controller;
+package com.demo.mongo.service;
 
 import java.util.List;
 
